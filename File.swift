@@ -112,26 +112,3 @@ func rando(def1: Int = 100, def2: Int = 666) {
 // Not sure if such a scenario would ever arise in production... but it could lead to bugs
 // Optional tuple return
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
